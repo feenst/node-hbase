@@ -31,7 +31,7 @@
     "node": ">= 0.1.90"
   },
   "optionalDependencies": {
-    "krb5": "^0.1.0"
+    "krb5": "git+https://github.com/feenst/node-krb5.git#10bba715f49fcbf0d54ddf38025eec2475f4c960"
   },
   "devDependencies": {
     "coffee-script": "^1.12.6",
